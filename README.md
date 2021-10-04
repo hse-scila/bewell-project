@@ -22,8 +22,8 @@ Main folders:
 Using this python code we obtained result reported in the paper.
 
 ### Authors: 
-- Polina Panicheva
-- Larisa Mararitsa  
-- Semen Sorokin
-- Olessia Koltsova
-- Paolo Rosso
+- Polina Panicheva (ppolin86@gmail.com)
+- Larisa Mararitsa  (larisamararitsa@mail.ru)
+- Semen Sorokin (sorokin.semen2020@gmail.com)
+- Olessia Koltsova (ekoltsova@hse.ru)
+- Paolo Rosso (prosso@dsic.upv.es)
